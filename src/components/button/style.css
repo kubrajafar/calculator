@@ -1,0 +1,15 @@
+button {
+  padding: 20px 10px;
+  border: none;
+  background-color: rgb(3, 3, 58);
+  color: #fff;
+  border-radius: 10px;
+  cursor: pointer;
+}
+button.clear {
+  grid-column: 1/5;
+  background-color: rgb(187, 8, 8);
+}
+button.operator {
+  background-color: rgb(231, 141, 23);
+}
